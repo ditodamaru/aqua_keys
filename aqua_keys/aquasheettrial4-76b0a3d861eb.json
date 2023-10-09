@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aquasheettrial4",
+  "private_key_id": "76b0a3d861ebf99a267fcc32766baae8be7e14d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCOzlGs0XFTydYx\nSzpZykgcjxIbbHnHkgzVT1zpxk+ZeyvzpjWt3RzHqgMg1suWfaYjLTdhe165uHMg\nLtyKJwzmmE02OufrcvkRg99snlqu8WAMG5Ms+5CsLpHn8T7Tusoi6HU6Y6MLF6fZ\nP4BrUzAvtJ6HIs9dHTPV9dVX7MYTujYLytTrIMdS89QGwPli/dGT6aDaoLB+8AFr\n/uprZy4Zz4KmUPF+7vXVDLBVAIbviqzAE0YhnrcKoIrGaDANAHTWsrzEcok0jUZX\n/xH8seoVrIrZxE+zukvwMfc2ciPHdSKG7LWvcHjApUHxxWDh8QBbw8wrR4z/zsQ7\nXLoKQIbjAgMBAAECggEAJSc7a51gAR8ZaWC7kSHGChwU52qc8lWmnhaUQ0PzcKhx\ngmXjQFUvCClMwA3yELim8S7x4hxBREtfNGfMu+q1+gZ0zB+eOA0FDNAE4FMAn9Qv\nm2bPLxxSAuHo1vHWWSqXLWbSHPtQL3IbmrNhO0r81eSFe/4L+hs/YbKgK0xwKjBc\nIn4IKde/HMgTFSNMl3ZZDgmfGoJWxxGOCrkc2kEHx5Rdup1ePvrg0/R/gQOP9rZv\n7PcVPWGHSnVyOycHTyXDBrq9r03Rekhsc0we2ylZNP+lIUbQaQS4GAm0kt3YxaZH\nMlhO6f5CZIfR1iZhlskKQfEar0E5HrBXWBEWQGU25QKBgQDAJ9sRbs4wtPegR5uK\nwho+VF2oTzBQtM/blRJwKzDQEY9Ij8dmwq0pvPz1YcDHzDsKP6QiLoUKvr8TLQbv\nHaW7SJgCIzm7DTz/++mppxAa+7lHFte2c90ywKA971j6Ew4UnIGQdsl+1e7a3fs9\n1NE7FP7540BiDLRwOUYldK5CbwKBgQC+QO6inScOJwZQ9g4U4nEk33XpsZNxbsJQ\nlLOBQ7R2uLIimygMlpHH6FOK6XlIDlZy+6+OTatn79UdeYu8qh9sbVq4jqBxuXiT\nt5ggZ5YEbTqWe8Pgk7lB+6zzSqZ9XS8mtbfyXwDj/83m4uZntXRBR3gU8lXxF/iJ\nxJk24XnszQKBgQCbiCcDJ0LxnajJLOyzFYUUakkckGw1BwUvYKv56pup7myheO8X\nN//dRsEhBKx7i81F8Fkz6Z96IQabyNhR9xdMTefr4wM5ae+z6v0oerbIgHNpHQ4g\n+gtSpyOMvgyw7Xd6K2ubuOpDJXod4YsYcwef4NC5Br34Hvx10YX7j0P1NQKBgHOC\nnOBiJcoz62PQYHBRo3xNqBuA0xI1uwiNoAbFgpXqQU09gq1R5aTH66EVa6tR+S7K\nnKX7hiwOswe4Oh0L9RQxuLkA72zcvNaCy3wxKCX742xmLGD3j6z+Dt2P31GR+AS6\no7ol8DZ9oxehf15MDw9rQv8EuyUr9pw+nv9xGkOpAoGBAKOnxewGI+i3sLc8h/da\n+AdnCnk6EsD9uqjKPiuIE9ckKonBw0xVPDRzi1xkNIpXFbMDPbkZGqpgTTkR6xVW\ni6jEdjfDU8Y9VYAb+3BZ+OXQK7AE1yUGZ5Qhq1JYcCp8JT1RsJoe38MDRHp3jd5N\nMlMM8EnacXhH0Y14E/Hm/Imn\n-----END PRIVATE KEY-----\n",
+  "client_email": "aquasheettrial4@aquasheettrial4.iam.gserviceaccount.com",
+  "client_id": "117958291744784340231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aquasheettrial4%40aquasheettrial4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
